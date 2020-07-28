@@ -14,9 +14,8 @@ Install Libraries
 
 ```sh
 (venv)$ pip install flask #Installing Flask
-(venv)$ pip install Flask-WTF #Installing Flask-WTF
-(venv)$ pip install matplotlib #Installing matplotlib
-(venv)$ cd ru_words_counter #Open project folder
+(venv)$ pip install Flask-WTF #Installing Flask-WTF\
+(venv)$ cd flask-url-shortener #Open project folder
 (venv)$ python app.py #Run app
 ```
 
